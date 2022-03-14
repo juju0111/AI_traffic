@@ -1,0 +1,33 @@
+prob: # probability of creating car
+  ns:  #p12
+    0.04 # North to South
+  ne:  #p13
+    0.04
+  nw: #p14
+    0.04
+  sn:
+    0.04
+  se:
+    0.04
+  sw:
+    0.04
+  en:
+    0.05
+  es:
+    0.05
+  ew:
+    0.1
+  wn:
+    0.05
+  ws:
+    0.05
+  we:
+    0.1
+
+phase:
+  yellow:
+    3
+
+
+sc: # Satisfaction Criteria
+  100
