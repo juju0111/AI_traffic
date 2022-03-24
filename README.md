@@ -2,6 +2,7 @@
 
 SUMO siulator based AI project
 
+Paper : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035672
 
 Youtube link:
 
